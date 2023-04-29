@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaAlg.iml" filepath="$PROJECT_DIR$/JavaAlg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_10/java_pogorelov_10.iml" filepath="$PROJECT_DIR$/java_pogorelov_10/java_pogorelov_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_11/java_pogorelov_11.iml" filepath="$PROJECT_DIR$/java_pogorelov_11/java_pogorelov_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_12/java_pogorelov_12.iml" filepath="$PROJECT_DIR$/java_pogorelov_12/java_pogorelov_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_13/java_pogorelov_13.iml" filepath="$PROJECT_DIR$/java_pogorelov_13/java_pogorelov_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_14/java_pogorelov_14.iml" filepath="$PROJECT_DIR$/java_pogorelov_14/java_pogorelov_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_15/java_pogorelov_15.iml" filepath="$PROJECT_DIR$/java_pogorelov_15/java_pogorelov_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_16/java_pogorelov_16.iml" filepath="$PROJECT_DIR$/java_pogorelov_16/java_pogorelov_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_18/java_pogorelov_18.iml" filepath="$PROJECT_DIR$/java_pogorelov_18/java_pogorelov_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_2/java_pogorelov_2.iml" filepath="$PROJECT_DIR$/java_pogorelov_2/java_pogorelov_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_20/java_pogorelov_20.iml" filepath="$PROJECT_DIR$/java_pogorelov_20/java_pogorelov_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_22/java_pogorelov_22.iml" filepath="$PROJECT_DIR$/java_pogorelov_22/java_pogorelov_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_24/java_pogorelov_24.iml" filepath="$PROJECT_DIR$/java_pogorelov_24/java_pogorelov_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_26/java_pogorelov_26.iml" filepath="$PROJECT_DIR$/java_pogorelov_26/java_pogorelov_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_28/java_pogorelov_28.iml" filepath="$PROJECT_DIR$/java_pogorelov_28/java_pogorelov_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_3/java_pogorelov_3.iml" filepath="$PROJECT_DIR$/java_pogorelov_3/java_pogorelov_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_4/java_pogorelov_4.iml" filepath="$PROJECT_DIR$/java_pogorelov_4/java_pogorelov_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_5/java_pogorelov_5.iml" filepath="$PROJECT_DIR$/java_pogorelov_5/java_pogorelov_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_6/java_pogorelov_6.iml" filepath="$PROJECT_DIR$/java_pogorelov_6/java_pogorelov_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_7/java_pogorelov_7.iml" filepath="$PROJECT_DIR$/java_pogorelov_7/java_pogorelov_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_8/java_pogorelov_8.iml" filepath="$PROJECT_DIR$/java_pogorelov_8/java_pogorelov_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_pogorelov_9/java_pogorelov_9.iml" filepath="$PROJECT_DIR$/java_pogorelov_9/java_pogorelov_9.iml" />
+    </modules>
+  </component>
+</project>
